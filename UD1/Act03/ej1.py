@@ -1,6 +1,6 @@
 # Ejercicio 1: Ficha personal
 # Este programa esta hecho por Manuel González Calandria
-# 
+
 nombre = input("Introduce tu nombre: ")
 apellido = input("Introduce tu apellido: ")
 edad = int(input("Introduce tu edad: "))
